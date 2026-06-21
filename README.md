@@ -1,4 +1,3 @@
-# Customer-Trend-Analysis-SQL-Python-Power-BI-
 # Customer Shopping Trends Analysis | SQL, Python & Power BI
 
 ## Project Overview
