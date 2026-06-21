@@ -1,4 +1,4 @@
-# Customer Shopping Trends Analysis | SQL, Python & Power BI
+
 
 ## Project Overview
 
