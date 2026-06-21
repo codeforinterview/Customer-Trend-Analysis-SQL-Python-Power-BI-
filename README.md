@@ -44,7 +44,6 @@ The goal of this project is to demonstrate a corporate-grade data analytics work
 * PostgreSQL
 * SQL
 * Power BI
-* Jupyter Notebook
 * VS Code
 
 ---
