@@ -1,4 +1,4 @@
-Customer Shopping Trends Analysis | SQL, Python & Power BI
+# Customer Shopping Trends Analysis | SQL, Python & Power BI
 
 ## Project Overview
 
@@ -110,4 +110,3 @@ Business Analyst Aspirant | Data Analytics Enthusiast
 
 LinkedIn: https://www.linkedin.com/in/joseph-rex-784660214/
 GitHub: https://github.com/codeforinterview
-
